@@ -1,0 +1,10 @@
+site_name: LLM Study Notes
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Introduction: intro-to-llms.md
+  - Transformers: transformers.md
+  - Attention: attention-mechanism.md
+  - Training: training-llms.md

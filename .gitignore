@@ -1,0 +1,5 @@
+# Ignore MkDocs output
+site/
+
+# Ignore Python virtual environment
+.venv/
